@@ -1,0 +1,14 @@
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.AssemblyInfo.cs
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\namespaces\namespaces\bin\Debug\net7.0\namespaces.exe
+C:\WORKSPACE - C#\namespaces\namespaces\bin\Debug\net7.0\namespaces.deps.json
+C:\WORKSPACE - C#\namespaces\namespaces\bin\Debug\net7.0\namespaces.runtimeconfig.json
+C:\WORKSPACE - C#\namespaces\namespaces\bin\Debug\net7.0\namespaces.dll
+C:\WORKSPACE - C#\namespaces\namespaces\bin\Debug\net7.0\namespaces.pdb
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.dll
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\refint\namespaces.dll
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.pdb
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\namespaces.genruntimeconfig.cache
+C:\WORKSPACE - C#\namespaces\namespaces\obj\Debug\net7.0\ref\namespaces.dll
